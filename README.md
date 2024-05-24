@@ -14,6 +14,6 @@ The main problem with this dataset is that is highly imbalanced. In order to get
     model 3: train and test with imbalanced data + class_weights + 40% threshold
     model 3: balanced data
 ## 1D Signal to Image
-We're transforming 1D EEG segments into images to use as input to a CNN Model.
+We're transforming 2D EEG segments into images to use as input to our CNN Model.
 
 
